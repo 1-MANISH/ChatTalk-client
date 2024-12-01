@@ -1,0 +1,9 @@
+
+
+Fix alert listener -  sab refresh ho jaa rhaa hai // done
+Add refetch listener // done
+We have to refresh on every login - to get user information // done
+on Refresh notification goes notifier goes out
+disable register button // done
+on right click of anyChat - delete chat option // done
+notification me thoda refesh ka problem hai
